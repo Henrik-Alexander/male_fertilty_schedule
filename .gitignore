@@ -1,0 +1,10 @@
+# Files
+*.csv
+*.xlsx
+*.pdf
+*.pptx
+*.html
+
+# Directories
+results/
+data/
